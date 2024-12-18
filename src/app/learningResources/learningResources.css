@@ -1,0 +1,14 @@
+.legal{
+    color: darkblue;
+    font-size: 10px;
+    list-style: lower-roman;   
+}
+
+h5{
+    text-align: center;
+}
+
+.lrmain{
+    display: flex;
+    flex-direction: row;
+}
